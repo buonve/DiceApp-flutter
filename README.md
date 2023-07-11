@@ -1,6 +1,6 @@
-# flutter_exercise
+# Flutter Dice-Roller
 
-A new Flutter project.
+A new simple Flutter project to start learning Flutter and Dart.
 
 ## Getting Started
 
